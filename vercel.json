@@ -1,0 +1,1 @@
+{\n  "rewrites": [\n    { "source": "/(.*)", "destination": "/" }\n  ],\n  "cleanUrls": true,\n  "trailingSlash": false\n}
